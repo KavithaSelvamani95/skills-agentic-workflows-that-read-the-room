@@ -1,7 +1,7 @@
 ---
 name: update-github-info
 description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
-model: auto
+model: gpt-4o-mini?effort=low
 on:
   workflow_dispatch:
   schedule:
